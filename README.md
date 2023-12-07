@@ -1,5 +1,13 @@
-### Hi there 👋
+### 🐑 Greetings and welcome! 
 
+A student studenting the student life 🤝
+#### I am:
+- a keen C, C++, C# dev;
+- slowly learning Python
+- not into web development;
+- trying.
+
+Let's share overshared memes: cyanidefart@gmail.com
 <!--
 **Cynerdus/Cynerdus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
