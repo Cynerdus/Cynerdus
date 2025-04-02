@@ -4,6 +4,8 @@ Data Engineer during the day, overworked student at night.
 
 I work daily with: MS Azure Services, Databases, Parallel Computing, and Python notebooks. \
 Passion domain is Mobile Apps Development (currently working on a cool app for my diploma project!). \
+I teach slightly younger students OOP principles in Java. \
+Took part in multiple competitive programming/innovation competitions when I had the time. \
 Not a fan of web dev :P
 
 You'll find diverse fauna on my page and I don't intend to have it any other way.
