@@ -1,11 +1,12 @@
 ### 🐑 Greetings and welcome! 
 
-A student studenting the student life 🤝
-#### I am:
-- a keen C, C++, C# dev;
-- slowly learning Python
-- not into web development;
-- trying.
+Data Engineer during the day, overworked student at night.
+
+I work daily with: MS Azure Services, Databases, Parallel Computing, and Python notebooks.
+Passion domain is Mobile Apps Development (currently working on a cool app for my diploma project!).
+Not a fan of web dev :P
+
+You'll find diverse fauna on my page and I don't intend to have it any other way.
 
 Let's share overshared memes: cyanidefart@gmail.com
 <!--
